@@ -1,4 +1,4 @@
-# 🎨 MyNFT - 个人NFT铸造项目
+# 🎨 NFT铸造项目
 
 一个功能完整的ERC721 NFT智能合约项目，可直接部署到Ethereum网络并发布到OpenSea。
 
