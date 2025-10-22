@@ -1,0 +1,26 @@
+{
+  "name": "My NFT #1",
+  "description": "这是我个人NFT系列中的第1号作品。每一个NFT都是独特的数字收藏品。",
+  "image": "ipfs://QmXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/1.png",
+  "external_url": "https://mynft.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Genesis"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Serial Number",
+      "value": 1
+    }
+  ]
+}
+
