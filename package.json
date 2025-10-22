@@ -1,0 +1,31 @@
+{
+  "name": "didotoken-nft",
+  "version": "1.0.0",
+  "description": "Personal NFT minting project with ERC721 smart contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy:local": "hardhat run scripts/deploy.js",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "node": "hardhat node"
+  },
+  "keywords": [
+    "nft",
+    "erc721",
+    "ethereum",
+    "hardhat",
+    "openzeppelin"
+  ],
+  "author": "Jason Su",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1"
+  }
+}
+
